@@ -1,3 +1,4 @@
 Ideas:
 - spotify music recommender
 - terms and conditions summarizer
+- weather fit recommendation
