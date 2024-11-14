@@ -1,0 +1,3 @@
+Ideas:
+- spotify music recommender
+- terms and conditions summarizer
